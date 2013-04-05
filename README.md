@@ -19,4 +19,7 @@ Typing `airdrop` will open a new AirDrop window in Finder.
 About
 =====
 
-This workflow is developed by [@paulheyer](http://twitter.com/paulheyer) based on an extension by [@Johnathan1707](http://twitter.com/Johnathan1707).
+This workflow is developed by [@paulheyer](http://twitter.com/paulheyer) based on an extension by [@Johnathan1707](http://twitter.com/Johnathan1707).  
+   
+    
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=paulheyer&url=https://github.com/paulheyer/Alfred-AirDrop-Workflow&title=Alfred AirDrop Workflow&language=&tags=github&category=software)
