@@ -4,6 +4,12 @@ Alfred AirDrop Workflow
 A workflow for [Alfred App](http://www.alfredapp.com) 2.0. Opens a new AirDrop window in Finder.
 ![](http://f.cl.ly/items/2Q453Y0s471c1Y2T1g3S/alfred-airdrop-readme.jpg)
 
+Installation
+======
+
+You can download the ready-made extension here: [download](http://cl.ly/MwR2)  
+Alternatively clone the repository to you local machine.  
+Simply doubleclick `AirDrop.alfredworkflow` to install.
 
 Usage
 ======
